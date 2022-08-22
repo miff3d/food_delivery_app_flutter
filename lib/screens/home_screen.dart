@@ -55,7 +55,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       color:  Theme.of(context).primaryColor,
                     ) 
                 ),
-                hintText: 'Search Food oor Restaurants',
+                hintText: 'Search Food or Restaurants',
                 prefixIcon: Icon(Icons.search, size: 30.0,),
                 suffixIcon: IconButton(
                   icon: Icon(Icons.clear, size: 30.0,), 
